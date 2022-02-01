@@ -65,11 +65,14 @@ typings/
 # Output of 'npm pack'
 *.tgz
 
+# rabbitMQ storage to persist
+rabbitMQ/
+
 # Yarn Integrity file
 .yarn-integrity
 
 # dotenv environment variables file
-.env
+
 .env.test
 
 # parcel-bundler cache (https://parceljs.org/)
